@@ -7,4 +7,3 @@ I'm Lubo,
 - 😶‍🌫️ done a lot of stuff in **Java**, **Angular**, ...
 - 🎓 Masters degree in Informatics 
 - 👨‍🏫 certified teacher
-- 🤐 fan of a networks - routing & swtiching
